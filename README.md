@@ -35,7 +35,7 @@ This project was created to transfer the blueprints of every single component of
 ## Rack
 | ID      | Description | Material designation | Weight (Kg) |
 | :---        |    :----:   |         :---: |         :---: |
-| <a href="https://github.com/AresValley/ENIGMA/rack/100001">100 001</a> | Bearing Block Left | <a href="#material-designation">S235JR</a> | 0.155 |
+| <a href="https://github.com/AresValley/ENIGMA/tree/master/rack/100001">100 001</a> | Bearing Block Left | <a href="#material-designation">S235JR</a> | 0.155 |
 | 100 002 | Base Plate | S235JR | 3.952 |
 | ... | ... | ... | ... |
 
