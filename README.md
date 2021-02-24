@@ -44,12 +44,18 @@ This project was created to transfer the blueprints of every single component of
 
 <!-- ROTORS -->
 ## Rotors
-
+| ID      | Description | Material designation | Weight (Kg) |
+| :---        |    :----:   |         :---: |         :---: |
+| <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400016">400 016</a> | Contact Pin | <a href="#material-designation">CuZn40</a> | 0.0003 |
+| ... | ... | ... | ... |
 <!-- MD -->
 ## Material Designation
 
 ### S235JR
-S235JR is a European standard non-alloy, low carbon, manganese-containing structural steel commonly supplied in the untreated or normalised condition. It is easy to weld and bend. Similar desginations are: SS1312, 1.0038, Fe 360 BFN, RSt37-2, 40 B, SB1312, IM2191.
+**S235JR** is a European standard non-alloy, low carbon, manganese-containing structural steel commonly supplied in the untreated or normalised condition. It is easy to weld and bend. Similar desginations are: **SS1312**, **1.0038**, **Fe 360 BFN**, **RSt37-2**, **40 B**, **SB1312**, **IM2191**.
+
+### CuZn40
+A copper-zinc alloy with a duplex alpha-plus-beta phase structure and excellent hot-working properties. Service environment must be considered to predict corrosion behaviour. **CuZn40** has somewhat better cold-working and joining properties, but is less readily machined, than the similar low-leaded alloy **CuZn40Pb**. The most commonly used wrought forms are plate, rod and sections/shapes. 
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
