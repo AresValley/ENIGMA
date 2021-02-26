@@ -57,8 +57,20 @@ This project was created to transfer the blueprints of every single component of
 ### S235JR
 **S235JR** is a European standard non-alloy, low carbon, manganese-containing structural steel commonly supplied in the untreated or normalised condition. It is easy to weld and bend. Similar desginations are: **SS1312**, **1.0038**, **Fe 360 BFN**, **RSt37-2**, **40 B**, **SB1312**, **IM2191**.
 
+### X12Cr13
+Martensitic grade chromium steel which exhibits good mechanical properties coupled with good corrosion resistance in moderately corrosive environments. It is used for the production of components working in contact with water and steam. It exhibits very good resistance to adipic, arsenic, benzoic, boric, maleic, gallic, and malic acid, or at low temperatures or concentrations to: nitric, chromic, gallotannic, carbolic, barium, aluminum, and potassium acids, and ammonium hydroxide. It is not resistant to salts and sulfur compounds. It does not exhibit significant strength properties compared to conventional structural steels due to its relatively low carbon content, but unlike steels with a higher carbon content, it is more resistant to corrosion.
+
+### 38Si7
+Spring steel used in quenched and tempered condition. It is used for spring rings, spring plates, screw locks and load securing devices. 
+
 ### CuZn40
-A copper-zinc alloy with a duplex alpha-plus-beta phase structure and excellent hot-working properties. Service environment must be considered to predict corrosion behaviour. **CuZn40** has somewhat better cold-working and joining properties, but is less readily machined, than the similar low-leaded alloy **CuZn40Pb**. The most commonly used wrought forms are plate, rod and sections/shapes. 
+A copper-zinc alloy with a duplex alpha-plus-beta phase structure and excellent hot-working properties. Service environment must be considered to predict corrosion behaviour. **CuZn40** has somewhat better cold-working and joining properties, but is less readily machined, than the similar low-leaded alloy **CuZn40Pb**. The most commonly used wrought forms are plate, rod and sections/shapes.
+
+### PA6
+Polyamide 6, also known as Nylon 6 is a widely used industrial polymer. Nylon 6 fibres are tough, possessing high tensile strength, as well as elasticity and lustre. They are wrinkleproof and highly resistant to abrasion and chemicals such as acids and alkalis.
+
+### POM-C
+Polyacetal, also commonly known as acetal or polyoxymethylene, is a formaldehyde-based, semi-crystalline engineering thermoplastic. It is widely used in the production of precision parts for applications demanding good dimensional stability and sliding properties. The polymer serves as an alternative to metals due to its low friction and wear characteristics as well as its excellent balance of mechanical and chemical properties.
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
