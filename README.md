@@ -32,7 +32,7 @@ Chiffriermaschinen AG Heimsoeht & Rinke in Berlin-Wilmersdorf
 This project was created to transfer the blueprints of every single component of an ENIGMA I cipher device in a digital format (.stl, in the future other formats will be available) useful for 3D printing and eventual production through Computer-aided manufacturing (CAM).
 
 <!-- RACK -->
-## Rack
+## Gestell/Steckerbrett - Rack/Plug Board
 | ID      | Description | Material designation | Weight (Kg) |
 | :---        |    :----:   |         :---: |         :---: |
 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rack/100001">100 001</a> | Bearing Block Left | <a href="#material-designation">S235JR</a> | 0.155 |
@@ -40,20 +40,23 @@ This project was created to transfer the blueprints of every single component of
 | ... | ... | ... | ... |
 
 <!-- REFLECTOR -->
-## Reflector
+## Umkehrwalze - Reflector
 
 <!-- ROTORS -->
-## Rotors
+## Walzensatz - Rotors
 | ID      | Description | Material designation | Weight (Kg) |
 | :---        |    :----:   |         :---: |         :---: |
 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400001">400 001</a> | Kerfring | <a href="#material-designation">S235JR</a> | 0.0169 |
 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400002">400 002</a> | Digitring | <a href="#material-designation">X12Cr13</a> | 0.1130 |
-| ... | ... | ... | ... |
+| <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400003">400 003</a> | Bushing | <a href="#material-designation">S235JR</a> | 0.0540 |
 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400004">400 004</a> | Roll Shaft | <a href="#material-designation">S235JR</a> | 0.0270 |
 | ... | ... | ... | ... |
 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400016">400 016</a> | Contact Pin | <a href="#material-designation">CuZn40</a> | 0.0003 |
 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400018">400 018</a> | Spring Pin | <a href="#material-designation">CuZn40</a> | 0.0003 |
 | ... | ... | ... | ... |
+
+<!-- ROTORS WIRING -->
+## Rotors Wiring
 <!-- MD -->
 ## Material Designation
 
