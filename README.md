@@ -42,6 +42,20 @@ This project was created to transfer the blueprints of every single component of
 <!-- REFLECTOR -->
 ## Umkehrwalze - Reflector
 
+The Reflector known as the reversing drum or, from the German, the Umkehrwalze (or UKW) is a fixed wiring mechanism within the Enigma machine. After the input character is encoded by passing through a series of rotating cipher wheels (known as rotors, see below), the signal would then be sent to the Reflector and back to rotors again. Instead of producing a new letter substitution, the Reflector's purpose was to create a reciprocal mapping of letters, effectively ensuring that the encryption process is symmetric. This means that if a letter "A" was encrypted as "D," the decryption process would reverse this, decrypting "D" back to "A". Enigma can then be used to both encrypt or decrypt a message using the same initial settings. Unfortunately, incorporating a reflector into the system introduces an encryption vulnerability: the encrypted version of a given letter can never be that letter itself.
+
+| ID      | Description | Material designation | Weight (Kg) |
+| :---        |    :----:   |         :---: |         :---: |
+| <a href="https://github.com/AresValley/ENIGMA/tree/master/reflector/300001">300 001</a> | NAME | <a href="#material-designation">MATERIAL</a> | 0.0xxx |
+| <a href="https://github.com/AresValley/ENIGMA/tree/master/reflector/300002">300 002</a> | NAME | <a href="#material-designation">MATERIAL</a> | 0.0xxx |
+| <a href="https://github.com/AresValley/ENIGMA/tree/master/reflector/300003">300 003</a> | NAME | <a href="#material-designation">MATERIAL</a> | 0.0xxx |
+| <a href="https://github.com/AresValley/ENIGMA/tree/master/reflector/300004">300 004</a> | WEDGE | <a href="#material-designation">MATERIAL</a> | 0.0096 |
+| <a href="https://github.com/AresValley/ENIGMA/tree/master/reflector/300005">300 005</a> | BLANK | <a href="#material-designation">MATERIAL</a> | 0.0003 |
+| <a href="https://github.com/AresValley/ENIGMA/tree/master/reflector/300006">300 006</a> | BUSHING | <a href="#material-designation">MATERIAL</a> | 0.0019 |
+| <a href="https://github.com/AresValley/ENIGMA/tree/master/reflector/300007">300 007</a> | NAME | <a href="#material-designation">MATERIAL</a> | 0.0xxx |
+| <a href="https://github.com/AresValley/ENIGMA/tree/master/reflector/300008">300 008</a> | NAME | <a href="#material-designation">MATERIAL</a> | 0.0xxx |
+| <a href="https://github.com/AresValley/ENIGMA/tree/master/reflector/300009">300 009</a> | NAME | <a href="#material-designation">MATERIAL</a> | 0.0xxx |
+
 <!-- ROTORS -->
 ## Walzensatz - Rotors
 | ID      | Description | Material designation | Weight (Kg) |
