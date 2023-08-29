@@ -32,7 +32,7 @@ Chiffriermaschinen AG Heimsoeht & Rinke in Berlin-Wilmersdorf
 This project was created to transfer the blueprints of every single component of an ENIGMA I cipher device in a digital format (.stl, in the future other formats will be available) useful for 3D printing and eventual production through Computer-aided manufacturing (CAM).
 
 <!-- RACK -->
-## Gestell/Steckerbrett - Rack/Plug Board
+## Rack/Plug Board - Gestell/Steckerbrett
 | ID      | Description | Material designation | Weight (Kg) |
 | :---        |    :----:   |         :---: |         :---: |
 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rack/100001">100 001</a> | Bearing Block Left | <a href="#material-designation">S235JR</a> | 0.155 |
@@ -40,9 +40,9 @@ This project was created to transfer the blueprints of every single component of
 | ... | ... | ... | ... |
 
 <!-- REFLECTOR -->
-## Umkehrwalze - Reflector
+## Reflector - Umkehrwalze (UKW)
 
-The Reflector known as the reversing drum or, from the German, the Umkehrwalze (or UKW) is a fixed wiring mechanism within the Enigma machine. After the input character is encoded by passing through a series of rotating cipher wheels (known as rotors, see below), the signal would then be sent to the Reflector and back to rotors again. Instead of producing a new letter substitution, the Reflector's purpose was to create a reciprocal mapping of letters, effectively ensuring that the encryption process is symmetric. This means that if a letter "A" was encrypted as "D," the decryption process would reverse this, decrypting "D" back to "A". Enigma can then be used to both encrypt or decrypt a message using the same initial settings. Unfortunately, incorporating a reflector into the system introduces an encryption vulnerability: the encrypted version of a given letter can never be that letter itself.
+The **reflector** known as the **reversing drum** or, from the German, the **Umkehrwalze** (or **UKW**) is a fixed wiring mechanism within the Enigma machine. After the input character is encoded by passing through a series of rotating cipher wheels (known as rotors, see below), the signal would then be sent to the Reflector and back to rotors again. Instead of producing a new letter substitution, the Reflector's purpose was to create a reciprocal mapping of letters, effectively ensuring that the encryption process is symmetric. This means that if a letter "A" was encrypted as "D," the decryption process would reverse this, decrypting "D" back to "A". Enigma can then be used to both encrypt or decrypt a message using the same initial settings. Unfortunately, incorporating a reflector into the system introduces an encryption vulnerability: the encrypted version of a given letter can never be that letter itself.
 
 | ID      | Description | Material designation | Weight (Kg) |
 | :---        |    :----:   |         :---: |         :---: |
@@ -57,7 +57,7 @@ The Reflector known as the reversing drum or, from the German, the Umkehrwalze (
 | <a href="https://github.com/AresValley/ENIGMA/tree/master/reflector/300009">300 009</a> | NAME | <a href="#material-designation">MATERIAL</a> | 0.0xxx |
 
 <!-- ROTORS -->
-## Walzensatz - Rotors
+## Rotors - Walzensatz 
 | ID      | Description | Material designation | Weight (Kg) |
 | :---        |    :----:   |         :---: |         :---: |
 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400001">400 001</a> | Kerfring | <a href="#material-designation">S235JR</a> | 0.0169 |
