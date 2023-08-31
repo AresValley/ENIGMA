@@ -9,7 +9,7 @@
 ## ISOLATOR PLATE - 300 008
 
 **ID:** 300008 <br/>
-**Material:** [S235JR](https://github.com/AresValley/ENIGMA#pa6) <br/>
+**Material:** [PA6](https://github.com/AresValley/ENIGMA#pa6) <br/>
 **Weight:** 1.7 g <br/>
 **A360:** https://a360.co/45IXvrc <br/>
 
