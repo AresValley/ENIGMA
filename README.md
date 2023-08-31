@@ -26,12 +26,14 @@ This project was created to transfer the blueprints of every single component of
 <!-- RACK -->
 ## Rack/Plug Board - Gestell/Steckerbrett
 <div align="center">
+
 | ID | Description | Material designation | Weight (Kg) |
 | :--- | :----: | :---: | :---: |
 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rack/100001">100 001</a> | Bearing Block Left | <a href="#material-designation">S235JR</a> | 0.155 |
 | 100 002 | ■ |  |  |
 | ... | ... | ... | ... |
 | 100 073 | ■ |  |  |
+
 </div>
 
 <!-- REFLECTOR -->
@@ -41,6 +43,7 @@ The **reflector** known as the **reversing drum** or, from the German, the **Umk
 <img src="img/reflector_exploded.webp" alt="reflector">
 
 <div align="center">
+
 | ID | Description | Material designation | Weight (Kg) |
 | :--- | :----: | :---: | :---: |
 | <a href="https://github.com/AresValley/ENIGMA/tree/master/reflector/300001">300 001</a> | ■ | <a href="#material-designation">MATERIAL</a> | 0.0xxx |
@@ -52,11 +55,13 @@ The **reflector** known as the **reversing drum** or, from the German, the **Umk
 | <a href="https://github.com/AresValley/ENIGMA/tree/master/reflector/300007">300 007</a> | SCREW PLATE | <a href="#material-designation">S235JR</a> | 0.0001 |
 | <a href="https://github.com/AresValley/ENIGMA/tree/master/reflector/300008">300 008</a> | ISOLATOR PLATE | <a href="#material-designation">PA6 (Black)</a> | 0.0002 |
 | <a href="https://github.com/AresValley/ENIGMA/tree/master/reflector/300009">300 009</a> | AXLE | <a href="#material-designation">S235JR</a> | 0.0004 |
+
 </div>
 
 <!-- ROTORS -->
 ## Rotors - Walzensatz 
 <div align="center">
+
 | ID | Description | Material designation | Weight (Kg) |
 | :--- | :----: | :---: | :---: |
 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400001">400 001</a> | Kerfring | <a href="#material-designation">S235JR</a> | 0.0169 |
@@ -80,6 +85,7 @@ The **reflector** known as the **reversing drum** or, from the German, the **Umk
 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400019">400 019</a> | ■ | <a href="#material-designation">MATERIAL</a> | 0.0xxx |
 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400020">400 020</a> | ■ | <a href="#material-designation">MATERIAL</a> | 0.0xxx |
 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400021">400 021</a> | ■ | <a href="#material-designation">MATERIAL</a> | 0.0xxx |
+
 </div>
 
 <!-- ROTORS WIRING -->
