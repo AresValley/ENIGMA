@@ -46,8 +46,8 @@ The **reflector** known as the **reversing drum** or, from the German, the **Umk
 
 | ID | Description | Material designation | Weight (Kg) |
 | :--- | :----: | :---: | :---: |
-| <a href="https://github.com/AresValley/ENIGMA/tree/master/reflector/300001">300 001</a> | ■ | <a href="#material-designation">MATERIAL</a> | 0.0xxx |
-| <a href="https://github.com/AresValley/ENIGMA/tree/master/reflector/300002">300 002</a> | ■ | <a href="#material-designation">MATERIAL</a> | 0.0xxx |
+| <a href="https://github.com/AresValley/ENIGMA/tree/master/reflector/300001">300 001</a> | REVERSE ROLL | <a href="#material-designation">PA6 (Black)</a> | 0.0044 |
+| <a href="https://github.com/AresValley/ENIGMA/tree/master/reflector/300002">300 002</a> | CABINET | <a href="#material-designation">MATERIAL</a> | 0.1364 |
 | <a href="https://github.com/AresValley/ENIGMA/tree/master/reflector/300003">300 003</a> | WEDGE HOLDER | <a href="#material-designation">S235JR</a> | 0.0529 |
 | <a href="https://github.com/AresValley/ENIGMA/tree/master/reflector/300004">300 004</a> | WEDGE | <a href="#material-designation">S235JR</a> | 0.0096 |
 | <a href="https://github.com/AresValley/ENIGMA/tree/master/reflector/300005">300 005</a> | BLANK | <a href="#material-designation">CuZn40</a> | 0.0003 |
