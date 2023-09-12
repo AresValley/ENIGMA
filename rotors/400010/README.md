@@ -10,8 +10,8 @@
 
 **ID:** 400010 <br/>
 **Material:** [CuZn40](https://github.com/AresValley/ENIGMA#cuzn40) <br/>
-**Weight:** x.x g <br/>
-**A360:**  <br/>
+**Weight:** 0.145 g <br/>
+**A360:** https://a360.co/3RkbmjU <br/>
 
 ### Blueprint
-<img src="BP.eps" alt="Blueprint">
+<img src="BP.png" alt="Blueprint">

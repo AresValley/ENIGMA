@@ -15,7 +15,10 @@ Chiffriermaschinen AG Heimsoeht & Rinke in Berlin-Wilmersdorf
 - [Rack/Plug Board - Gestell/Steckerbrett](#rackplug-board---gestellsteckerbrett)
 - [Reflector - Umkehrwalze (UKW)](#reflector---umkehrwalze-ukw)
   - [Wiring](#wiring)
-- [Rotors - Walzensatz](#rotors---walzensatz)
+- [Rotor - Walzensatz](#rotor---walzensatz)
+  - [Rollbody](#rollbody)
+  - [Clamp](#clamp)
+  - [Complete Roll](#complete-roll)
   - [Wiring](#wiring-1)
 - [Material Designation](#material-designation)
 - [Acknowledgements](#acknowledgements)
@@ -41,7 +44,7 @@ This project was created to transfer the blueprints of every single component of
 ## Reflector - Umkehrwalze (UKW)
 The **reflector** known as the **reversing drum** or, from the German, the **Umkehrwalze** (or **UKW**) is a fixed wiring mechanism within the Enigma machine. After the input character is encoded by passing through a series of rotating cipher wheels (known as rotors, see below), the signal would then be sent to the Reflector and back to rotors again. Instead of producing a new letter substitution, the Reflector's purpose was to create a reciprocal mapping of letters, effectively ensuring that the encryption process is symmetric. This means that if a letter "A" was encrypted as "D," the decryption process would reverse this, decrypting "D" back to "A". Enigma can then be used to both encrypt or decrypt a message using the same initial settings. Unfortunately, incorporating a reflector into the system introduces an encryption vulnerability: the encrypted version of a given letter can never be that letter itself.
 
-<img src="img/reflector_exploded.webp" alt="reflector">
+<img src="img/reflector_exp.webp" alt="reflector">
 
 <div align="center">
 
@@ -74,7 +77,7 @@ The **reflector** known as the **reversing drum** or, from the German, the **Umk
 ### Wiring
 
 <!-- ROTORS -->
-## Rotors - Walzensatz 
+## Rotor - Walzensatz 
 <div align="center">
 
 | ID | Description | Material designation | Weight (Kg) |
@@ -88,7 +91,7 @@ The **reflector** known as the **reversing drum** or, from the German, the **Umk
 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400007">400 007</a> | Pin | <a href="#material-designation">S235JR</a> | 0.0004 |
 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400008">400 008</a> | ■ | <a href="#material-designation">MATERIAL</a> | 0.0xxx |
 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400009">400 009</a> | ■ | <a href="#material-designation">MATERIAL</a> | 0.0xxx |
-| <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400010">400 010</a> | ■ | <a href="#material-designation">MATERIAL</a> | 0.0xxx |
+| <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400010">400 010</a> | Contact Die | <a href="#material-designation">CuZn40</a> | 0.0001 |
 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400011">400 011</a> | Rollplate | <a href="#material-designation">PA6</a> | 0.0090 |
 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400012">400 012</a> | ■ | <a href="#material-designation">MATERIAL</a> | 0.0xxx |
 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400013">400 013</a> | ■ | <a href="#material-designation">MATERIAL</a> | 0.0xxx |
@@ -102,6 +105,24 @@ The **reflector** known as the **reversing drum** or, from the German, the **Umk
 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400021">400 021</a> | ■ | <a href="#material-designation">MATERIAL</a> | 0.0xxx |
 
 </div>
+
+### Rollbody
+
+### Clamp
+
+<img src="img/clamp_exp.webp" alt="reflector">
+
+<div align="center">
+
+| POS | Part Nr | Name | Material designation | Weight (Kg) |
+| :---: | :---: | :---: | :---: | :---: |
+| 1 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400006">400 006</a> | Clamp | <a href="#material-designation">38Si7</a> | 0.0013 |
+| 2 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400007">400 007</a> | Pin | <a href="#material-designation">S235JR</a> | 0.0004 |
+| 3 | <a href="https://github.com/AresValley/ENIGMA/tree/master/reflector/400008">400 008</a> | ■ | <a href="#material-designation">S235JR</a> | 0. |
+
+</div>
+
+### Complete Roll
 
 <!-- ROTORS WIRING -->
 ### Wiring
