@@ -14,8 +14,9 @@ Chiffriermaschinen AG Heimsoeht & Rinke in Berlin-Wilmersdorf
 <!-- TABLE OF CONTENTS -->
 - [Rack/Plug Board - Gestell/Steckerbrett](#rackplug-board---gestellsteckerbrett)
 - [Reflector - Umkehrwalze (UKW)](#reflector---umkehrwalze-ukw)
+  - [Wiring](#wiring)
 - [Rotors - Walzensatz](#rotors---walzensatz)
-  - [Rotors Wiring](#rotors-wiring)
+  - [Wiring](#wiring-1)
 - [Material Designation](#material-designation)
 - [Acknowledgements](#acknowledgements)
 
@@ -44,19 +45,33 @@ The **reflector** known as the **reversing drum** or, from the German, the **Umk
 
 <div align="center">
 
-| ID | Description | Material designation | Weight (Kg) |
-| :--- | :----: | :---: | :---: |
-| <a href="https://github.com/AresValley/ENIGMA/tree/master/reflector/300001">300 001</a> | REVERSE ROLL | <a href="#material-designation">PA6 (Black)</a> | 0.0044 |
-| <a href="https://github.com/AresValley/ENIGMA/tree/master/reflector/300002">300 002</a> | CABINET | <a href="#material-designation">MATERIAL</a> | 0.1364 |
-| <a href="https://github.com/AresValley/ENIGMA/tree/master/reflector/300003">300 003</a> | WEDGE HOLDER | <a href="#material-designation">S235JR</a> | 0.0529 |
-| <a href="https://github.com/AresValley/ENIGMA/tree/master/reflector/300004">300 004</a> | WEDGE | <a href="#material-designation">S235JR</a> | 0.0096 |
-| <a href="https://github.com/AresValley/ENIGMA/tree/master/reflector/300005">300 005</a> | BLANK | <a href="#material-designation">CuZn40</a> | 0.0003 |
-| <a href="https://github.com/AresValley/ENIGMA/tree/master/reflector/300006">300 006</a> | BUSHING | <a href="#material-designation">CuZn40</a> | 0.0019 |
-| <a href="https://github.com/AresValley/ENIGMA/tree/master/reflector/300007">300 007</a> | SCREW PLATE | <a href="#material-designation">S235JR</a> | 0.0001 |
-| <a href="https://github.com/AresValley/ENIGMA/tree/master/reflector/300008">300 008</a> | ISOLATOR PLATE | <a href="#material-designation">PA6 (Black)</a> | 0.0002 |
-| <a href="https://github.com/AresValley/ENIGMA/tree/master/reflector/300009">300 009</a> | AXLE | <a href="#material-designation">S235JR</a> | 0.0004 |
+| POS | Part Nr | Name | Material designation | Weight (Kg) |
+| :---: | :---: | :---: | :---: | :---: |
+| 1 | <a href="https://github.com/AresValley/ENIGMA/tree/master/reflector/300009">300 009</a> | Axle | <a href="#material-designation">S235JR</a> | 0.0004 |
+| 2 | <a href="https://github.com/AresValley/ENIGMA/tree/master/reflector/300002">300 002</a> | Cabinet | <a href="#material-designation">MATERIAL</a> | 0.1364 |
+| 3 | | Countersink M2 x 4 | |
+| 4 | | Countersink M3 x 6 | |
+| 5 | <a href="https://github.com/AresValley/ENIGMA/tree/master/reflector/300003">300 003</a> | Wedge Holder | <a href="#material-designation">S235JR</a> | 0.0529 |
+| 6 | <a href="https://github.com/AresValley/ENIGMA/tree/master/reflector/300004">300 004</a> | Wedge | <a href="#material-designation">S235JR</a> | 0.0096 |
+| 7 | | Countersink M3 x 5 | |
+| 8 | | Screw M1.6 x 4 | |
+| 9 | <a href="https://github.com/AresValley/ENIGMA/tree/master/reflector/300008">300 008</a> | Isolator Plate | <a href="#material-designation">PA6 (Black)</a> | 0.0002 |
+| 10 | <a href="https://github.com/AresValley/ENIGMA/tree/master/reflector/300005">300 005</a> | Blank | <a href="#material-designation">CuZn40</a> | 0.0003 |
+| 11 
+| 12 
+| 13 
+| 14 | <a href="https://github.com/AresValley/ENIGMA/tree/master/reflector/300001">300 001</a> | Reverse Roll | <a href="#material-designation">PA6 (Black)</a> | 0.0044 |
+| 15 | <a href="https://github.com/AresValley/ENIGMA/tree/master/reflector/300007">300 007</a> | Screw Plate | <a href="#material-designation">S235JR</a> | 0.0001 |
+| 16 | <a href="https://github.com/AresValley/ENIGMA/tree/master/reflector/300006">300 006</a> | Bushing | <a href="#material-designation">CuZn40</a> | 0.0019 |
+| 17 
+| 18 
+| 19 
+| 20 | | Countersink M3x8 | |
 
 </div>
+
+<!-- REFLECTOR WIRING -->
+### Wiring
 
 <!-- ROTORS -->
 ## Rotors - Walzensatz 
@@ -89,7 +104,7 @@ The **reflector** known as the **reversing drum** or, from the German, the **Umk
 </div>
 
 <!-- ROTORS WIRING -->
-### Rotors Wiring
+### Wiring
 
 <!-- MD -->
 ## Material Designation
