@@ -9,7 +9,7 @@
 ## Contact Die - 400 010
 
 **ID:** 400010 <br/>
-**Material:** [CuZn40](https://github.com/AresValley/ENIGMA#cuzn40) <br/>
+**Material:** [CuZn40](https://github.com/AresValley/ENIGMA#cuzn40-) <br/>
 **Weight:** 0.145 g <br/>
 **A360:** https://a360.co/3RkbmjU <br/>
 

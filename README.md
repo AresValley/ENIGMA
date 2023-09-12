@@ -14,11 +14,13 @@ Chiffriermaschinen AG Heimsoeht & Rinke in Berlin-Wilmersdorf
 <!-- TABLE OF CONTENTS -->
 - [Rack/Plug Board - Gestell/Steckerbrett](#rackplug-board---gestellsteckerbrett)
 - [Reflector - Umkehrwalze (UKW)](#reflector---umkehrwalze-ukw)
+  - [1. Complete Reflector](#1-complete-reflector)
   - [Wiring](#wiring)
 - [Rotor - Walzensatz](#rotor---walzensatz)
-  - [Rollbody](#rollbody)
-  - [Clamp](#clamp)
-  - [Complete Roll](#complete-roll)
+  - [1. Rollbody](#1-rollbody)
+  - [2. Clamp](#2-clamp)
+  - [3. Complete Rotor](#3-complete-rotor)
+  - [4. Rotors Stacking](#4-rotors-stacking)
   - [Wiring](#wiring-1)
 - [Material Designation](#material-designation)
 - [Acknowledgements](#acknowledgements)
@@ -43,6 +45,8 @@ This project was created to transfer the blueprints of every single component of
 <!-- REFLECTOR -->
 ## Reflector - Umkehrwalze (UKW)
 The **reflector** known as the **reversing drum** or, from the German, the **Umkehrwalze** (or **UKW**) is a fixed wiring mechanism within the Enigma machine. After the input character is encoded by passing through a series of rotating cipher wheels (known as rotors, see below), the signal would then be sent to the Reflector and back to rotors again. Instead of producing a new letter substitution, the Reflector's purpose was to create a reciprocal mapping of letters, effectively ensuring that the encryption process is symmetric. This means that if a letter "A" was encrypted as "D," the decryption process would reverse this, decrypting "D" back to "A". Enigma can then be used to both encrypt or decrypt a message using the same initial settings. Unfortunately, incorporating a reflector into the system introduces an encryption vulnerability: the encrypted version of a given letter can never be that letter itself.
+
+### 1. Complete Reflector
 
 <img src="img/reflector_exp.webp" alt="reflector">
 
@@ -106,9 +110,9 @@ The **reflector** known as the **reversing drum** or, from the German, the **Umk
 
 </div>
 
-### Rollbody
+### 1. Rollbody
 
-### Clamp
+### 2. Clamp
 
 <img src="img/clamp_exp.webp" alt="reflector">
 
@@ -122,7 +126,9 @@ The **reflector** known as the **reversing drum** or, from the German, the **Umk
 
 </div>
 
-### Complete Roll
+### 3. Complete Rotor
+
+### 4. Rotors Stacking
 
 <!-- ROTORS WIRING -->
 ### Wiring

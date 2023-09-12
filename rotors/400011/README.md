@@ -9,9 +9,9 @@
 ## ROLLPLATE - 400 011
 
 **ID:** 400011 <br/>
-**Material:** PA6 (Nylon 6) <br/>
+**Material:** [PA6](https://github.com/AresValley/ENIGMA#pa6-) <br/>
 **Weight:** 0.0090 Kg <br/>
 **A360:** https://a360.co/3NFh4rl <br/>
 
 ### Blueprint
-<img src="400011_BP.jpg" alt="Logo">
+<img src="BP.png" alt="Logo">

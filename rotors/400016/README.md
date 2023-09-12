@@ -9,9 +9,9 @@
 ## CONTACT PIN - 400 016
 
 **ID:** 400016 <br/>
-**Material:** CuZn40 (copper-zinc alloy that relates to semi-red brasses) <br/>
+**Material:** [CuZn40](https://github.com/AresValley/ENIGMA#cuzn40-) <br/>
 **Weight:** 0.0003 Kg <br/>
 **A360:** https://a360.co/3pN8evb <br/>
 
 ### Blueprint
-<img src="400016_BP.jpg" alt="Blueprint">
+<img src="BP.png" alt="Blueprint">

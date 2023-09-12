@@ -9,9 +9,9 @@
 ## KERFRING - 400 001
 
 **ID:** 400001 <br/>
-**Material:** S235JR (non-alloy, low carbon, manganese-containing structural steel) <br/>
+**Material:** [S235JR](https://github.com/AresValley/ENIGMA#s235jr-) <br/>
 **Weight:** 0.0169 Kg <br/>
 **A360:** https://a360.co/2ZTC5rj <br/>
 
 ### Blueprint
-<img src="400001_BP.jpg" alt="Logo">
+<img src="BP.png" alt="Logo">

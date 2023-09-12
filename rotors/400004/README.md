@@ -9,9 +9,9 @@
 ## ROLL SHAFT - 400 004
 
 **ID:** 400004 <br/>
-**Material:** S235JR (non-alloy, low carbon, manganese-containing structural steel) <br/>
+**Material:** [S235JR](https://github.com/AresValley/ENIGMA#s235jr-) <br/>
 **Weight:** 0.0270 Kg <br/>
 **A360:** https://a360.co/2NRQIZV <br/>
 
 ### Blueprint
-<img src="400004_BP.jpg" alt="Logo">
+<img src="BP.png" alt="Logo">

@@ -9,9 +9,9 @@
 ## PIN - 400 007
 
 **ID:** 400007 <br/>
-**Material:** S235JR (non-alloy, low carbon, manganese-containing structural steel) <br/>
+**Material:** [S235JR](https://github.com/AresValley/ENIGMA#s235jr-) <br/>
 **Weight:** 0.0004 Kg <br/>
 **A360:** https://a360.co/385FHOT <br/>
 
 ### Blueprint
-<img src="400007_BP.jpg" alt="Logo">
+<img src="BP.png" alt="Logo">
