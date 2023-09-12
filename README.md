@@ -64,15 +64,15 @@ The **reflector** known as the **reversing drum** or, from the German, the **Umk
 | 8 | | Screw M1.6 x 4 | |
 | 9 | <a href="https://github.com/AresValley/ENIGMA/tree/master/reflector/300008">300 008</a> | Isolator Plate | <a href="#material-designation">PA6 (Black)</a> | 0.0002 |
 | 10 | <a href="https://github.com/AresValley/ENIGMA/tree/master/reflector/300005">300 005</a> | Blank | <a href="#material-designation">CuZn40</a> | 0.0003 |
-| 11 
-| 12 
-| 13 
+| 11 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400010">400 010</a> | Contact Die | <a href="#material-designation">CuZn40</a> | 0.0001 |
+| 12 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400013">400 013</a> | ■ | <a href="#material-designation">MATERIAL</a> | 0.0xxx |
+| 13 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400019">400 019</a> | ■ | <a href="#material-designation">MATERIAL</a> | 0.0xxx |
 | 14 | <a href="https://github.com/AresValley/ENIGMA/tree/master/reflector/300001">300 001</a> | Reverse Roll | <a href="#material-designation">PA6 (Black)</a> | 0.0044 |
 | 15 | <a href="https://github.com/AresValley/ENIGMA/tree/master/reflector/300007">300 007</a> | Screw Plate | <a href="#material-designation">S235JR</a> | 0.0001 |
 | 16 | <a href="https://github.com/AresValley/ENIGMA/tree/master/reflector/300006">300 006</a> | Bushing | <a href="#material-designation">CuZn40</a> | 0.0019 |
-| 17 
-| 18 
-| 19 
+| 17 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400017">400 017</a> | ■ | <a href="#material-designation">MATERIAL</a> | 0.0xxx |
+| 18 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400018">400 018</a> | Spring Pin | <a href="#material-designation">CuZn40</a> | 0.0003 |
+| 19 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400015">400 015</a> | ■ | <a href="#material-designation">MATERIAL</a> | 0.0xxx |
 | 20 | | Countersink M3x8 | |
 
 </div>
@@ -82,39 +82,33 @@ The **reflector** known as the **reversing drum** or, from the German, the **Umk
 
 <!-- ROTORS -->
 ## Rotor - Walzensatz 
-<div align="center">
-
-| ID | Description | Material designation | Weight (Kg) |
-| :--- | :----: | :---: | :---: |
-| <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400001">400 001</a> | Kerfring | <a href="#material-designation">S235JR</a> | 0.0169 |
-| <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400002">400 002</a> | Digitring | <a href="#material-designation">X12Cr13</a> | 0.1130 |
-| <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400003">400 003</a> | Bushing | <a href="#material-designation">S235JR</a> | 0.0540 |
-| <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400004">400 004</a> | Roll Shaft | <a href="#material-designation">S235JR</a> | 0.0270 |
-| <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400005">400 005</a> | Bracket | <a href="#material-designation">S235JR</a> | 0.0020 |
-| <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400006">400 006</a> | Clamp | <a href="#material-designation">38Si7</a> | 0.0013 |
-| <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400007">400 007</a> | Pin | <a href="#material-designation">S235JR</a> | 0.0004 |
-| <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400008">400 008</a> | ■ | <a href="#material-designation">MATERIAL</a> | 0.0xxx |
-| <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400009">400 009</a> | ■ | <a href="#material-designation">MATERIAL</a> | 0.0xxx |
-| <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400010">400 010</a> | Contact Die | <a href="#material-designation">CuZn40</a> | 0.0001 |
-| <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400011">400 011</a> | Rollplate | <a href="#material-designation">PA6</a> | 0.0090 |
-| <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400012">400 012</a> | ■ | <a href="#material-designation">MATERIAL</a> | 0.0xxx |
-| <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400013">400 013</a> | ■ | <a href="#material-designation">MATERIAL</a> | 0.0xxx |
-| <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400014">400 014</a> | Toothed Wheel | <a href="#material-designation">S235JR</a> | 0.1140 |
-| <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400015">400 015</a> | ■ | <a href="#material-designation">MATERIAL</a> | 0.0xxx |
-| <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400016">400 016</a> | Contact Pin | <a href="#material-designation">CuZn40</a> | 0.0003 |
-| <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400017">400 017</a> | ■ | <a href="#material-designation">MATERIAL</a> | 0.0xxx |
-| <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400018">400 018</a> | Spring Pin | <a href="#material-designation">CuZn40</a> | 0.0003 |
-| <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400019">400 019</a> | ■ | <a href="#material-designation">MATERIAL</a> | 0.0xxx |
-| <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400020">400 020</a> | ■ | <a href="#material-designation">MATERIAL</a> | 0.0xxx |
-| <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400021">400 021</a> | ■ | <a href="#material-designation">MATERIAL</a> | 0.0xxx |
-
-</div>
 
 ### 1. Rollbody
 
+<img src="img/rollbody_exp.webp" alt="rollbody">
+
+<div align="center">
+
+| POS | Part Nr | Name | Material designation | Weight (Kg) |
+| :---: | :---: | :---: | :---: | :---: |
+| 1 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400012">400 012</a> | ■ | <a href="#material-designation">MATERIAL</a> | 0.0xxx |
+| 2 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400016">400 016</a> | Contact Pin | <a href="#material-designation">CuZn40</a> | 0.0003 |
+| 3 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400011">400 011</a> | Rollplate | <a href="#material-designation">PA6</a> | 0.0090 |
+| 4 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400010">400 010</a> | Contact Die | <a href="#material-designation">CuZn40</a> | 0.0001 |
+| 5 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400009">400 009</a> | ■ | <a href="#material-designation">MATERIAL</a> | 0.0xxx |
+| 6 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400019">400 019</a> | ■ | <a href="#material-designation">MATERIAL</a> | 0.0xxx |
+| 7 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400017">400 017</a> | ■ | <a href="#material-designation">MATERIAL</a> | 0.0xxx |
+| 8 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400018">400 018</a> | Spring Pin | <a href="#material-designation">CuZn40</a> | 0.0003 |
+| 9 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400013">400 013</a> | ■ | <a href="#material-designation">MATERIAL</a> | 0.0xxx |
+| 10 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400014">400 014</a> | Toothed Wheel | <a href="#material-designation">S235JR</a> | 0.1140 |
+| 11 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400015">400 015</a> | ■ | <a href="#material-designation">MATERIAL</a> | 0.0xxx |
+| 12 | | Countersink M3 x 8 | |
+
+</div>
+
 ### 2. Clamp
 
-<img src="img/clamp_exp.webp" alt="reflector">
+<img src="img/clamp_exp.webp" alt="clamp">
 
 <div align="center">
 
@@ -128,7 +122,40 @@ The **reflector** known as the **reversing drum** or, from the German, the **Umk
 
 ### 3. Complete Rotor
 
+<img src="img/rotor_exp.webp" alt="rotor">
+
+<div align="center">
+
+| POS | Part Nr | Name | Material designation | Weight (Kg) |
+| :---: | :---: | :---: | :---: | :---: |
+| 1 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400003">400 003</a> | Bushing | <a href="#material-designation">S235JR</a> | 0.0540 |
+| 2 | | Countersink M2 x 5 | |
+| 3 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400001">400 001</a> | Kerfring | <a href="#material-designation">S235JR</a> | 0.0169 |
+| 4 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400002">400 002</a> | Digitring | <a href="#material-designation">X12Cr13</a> | 0.1130 |
+| 5 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400005">400 005</a> | Bracket | <a href="#material-designation">S235JR</a> | 0.0020 |
+| 6 | | [Clamp](#2-clamp) | |
+| 7 | | Countersink M1.6 x 2.5 | |
+| 8 | | Washer M1.2 | |
+| 9 | | Screw M1.2 x 2 | |
+| 10 | | Countersink M1.6 x 4 | |
+| 11 | | [Rollbody](#1-rollbody) | |
+
+</div>
+
 ### 4. Rotors Stacking
+
+<img src="img/rotors_stack_exp.webp" alt="stacked rotors">
+
+<div align="center">
+
+| POS | Part Nr | Name | Material designation | Weight (Kg) |
+| :---: | :---: | :---: | :---: | :---: |
+| 1 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400004">400 004</a> | Roll Shaft | <a href="#material-designation">S235JR</a> | 0.0270 |
+| 2 | | Rotor III | |
+| 3 | | Rotor IV | |
+| 4 | | Rotor V | |
+
+</div>
 
 <!-- ROTORS WIRING -->
 ### Wiring
