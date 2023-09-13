@@ -108,9 +108,9 @@ The **reflector** known as the **reversing drum** or, from the German, the **Umk
 
 ### 2. Clamp
 
-<img src="img/clamp_exp.webp" alt="clamp">
-
 <div align="center">
+
+<img src="img/clamp_exp.webp" alt="clamp" width="360">
 
 | POS | Part Nr | Name | Material designation | Weight (Kg) |
 | :---: | :---: | :---: | :---: | :---: |
