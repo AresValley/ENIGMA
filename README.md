@@ -65,14 +65,14 @@ The **reflector** known as the **reversing drum** or, from the German, the **Umk
 | 9 | <a href="https://github.com/AresValley/ENIGMA/tree/master/reflector/300008">300 008</a> | Isolator Plate | <a href="#material-designation">PA6 (Black)</a> | 0.0002 |
 | 10 | <a href="https://github.com/AresValley/ENIGMA/tree/master/reflector/300005">300 005</a> | Blank | <a href="#material-designation">CuZn40</a> | 0.0003 |
 | 11 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400010">400 010</a> | Contact Die | <a href="#material-designation">CuZn40</a> | 0.0001 |
-| 12 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400013">400 013</a> | ■ | <a href="#material-designation">MATERIAL</a> | 0.0xxx |
-| 13 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400019">400 019</a> | ■ | <a href="#material-designation">MATERIAL</a> | 0.0xxx |
+| 12 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400013">400 013</a> | Thread Bushing | <a href="#material-designation">S235JR</a> | 0.0011 |
+| 13 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400019">400 019</a> | Thread Bushing Small | <a href="#material-designation">S235JR</a> | 0.0004 |
 | 14 | <a href="https://github.com/AresValley/ENIGMA/tree/master/reflector/300001">300 001</a> | Reverse Roll | <a href="#material-designation">PA6 (Black)</a> | 0.0044 |
 | 15 | <a href="https://github.com/AresValley/ENIGMA/tree/master/reflector/300007">300 007</a> | Screw Plate | <a href="#material-designation">S235JR</a> | 0.0001 |
 | 16 | <a href="https://github.com/AresValley/ENIGMA/tree/master/reflector/300006">300 006</a> | Bushing | <a href="#material-designation">CuZn40</a> | 0.0019 |
-| 17 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400017">400 017</a> | ■ | <a href="#material-designation">MATERIAL</a> | 0.0xxx |
+| 17 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400017">400 017</a> | Spring | <a href="#material-designation">CuZn40</a> | 0.0000 |
 | 18 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400018">400 018</a> | Spring Pin | <a href="#material-designation">CuZn40</a> | 0.0003 |
-| 19 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400015">400 015</a> | ■ | <a href="#material-designation">MATERIAL</a> | 0.0xxx |
+| 19 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400015">400 015</a> | Coping | <a href="#material-designation">PA6 (Black)</a> | 0.0065 |
 | 20 | | Countersink M3x8 | |
 
 </div>
@@ -93,15 +93,15 @@ The **reflector** known as the **reversing drum** or, from the German, the **Umk
 | :---: | :---: | :---: | :---: | :---: |
 | 1 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400012">400 012</a> | ■ | <a href="#material-designation">MATERIAL</a> | 0.0xxx |
 | 2 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400016">400 016</a> | Contact Pin | <a href="#material-designation">CuZn40</a> | 0.0003 |
-| 3 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400011">400 011</a> | Rollplate | <a href="#material-designation">PA6</a> | 0.0090 |
+| 3 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400011">400 011</a> | Rollplate | <a href="#material-designation">PA6 (Black)</a> | 0.0090 |
 | 4 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400010">400 010</a> | Contact Die | <a href="#material-designation">CuZn40</a> | 0.0001 |
 | 5 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400009">400 009</a> | ■ | <a href="#material-designation">MATERIAL</a> | 0.0xxx |
-| 6 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400019">400 019</a> | ■ | <a href="#material-designation">MATERIAL</a> | 0.0xxx |
-| 7 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400017">400 017</a> | ■ | <a href="#material-designation">MATERIAL</a> | 0.0xxx |
+| 6 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400019">400 019</a> | Thread Bushing Small | <a href="#material-designation">S235JR</a> | 0.0004 |
+| 7 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400017">400 017</a> | Spring | <a href="#material-designation">CuZn40</a> | 0.0000 |
 | 8 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400018">400 018</a> | Spring Pin | <a href="#material-designation">CuZn40</a> | 0.0003 |
-| 9 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400013">400 013</a> | ■ | <a href="#material-designation">MATERIAL</a> | 0.0xxx |
+| 9 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400013">400 013</a> | Thread Bushing | <a href="#material-designation">S235JR</a> | 0.0011 |
 | 10 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400014">400 014</a> | Toothed Wheel | <a href="#material-designation">S235JR</a> | 0.1140 |
-| 11 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400015">400 015</a> | ■ | <a href="#material-designation">MATERIAL</a> | 0.0xxx |
+| 11 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400015">400 015</a> | Coping | <a href="#material-designation">PA6 (Black)</a> | 0.0065 |
 | 12 | | Countersink M3 x 8 | |
 
 </div>
