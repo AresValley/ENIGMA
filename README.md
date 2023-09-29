@@ -33,18 +33,18 @@ This project was created to transfer the blueprints of every single component of
 ## Rack/Plug Board - Gestell/Steckerbrett
 <div align="center">
 
-| ID | Description | Material designation | Weight (Kg) |
-| :--- | :----: | :---: | :---: |
-| <a href="https://github.com/AresValley/ENIGMA/tree/master/rack/100001">100 001</a> | Bearing Block Left | <a href="#material-designation">S235JR</a> | 0.155 |
-| 100 002 | ■ |  |  |
-| ... | ... | ... | ... |
-| 100 073 | ■ |  |  |
+| POS | Part Nr | Name | Material designation | Weight (Kg) |
+| :---: | :---: | :---: | :---: | :---: |
+| x | <a href="https://github.com/AresValley/ENIGMA/tree/master/rack/100001">100 001</a> | Bearing Block Left | <a href="#material-designation">S235JR</a> | 0.155 |
+| x | <a href="https://github.com/AresValley/ENIGMA/tree/master/rack/100005">100 005</a> | Shaft Holder | <a href="#material-designation">S235JR</a> | 0.019 |
+
+
 
 </div>
 
 <!-- REFLECTOR -->
 ## Reflector - Umkehrwalze (UKW)
-The **reflector** known as the **reversing drum** or, from the German, the **Umkehrwalze** (or **UKW**) is a fixed wiring mechanism within the Enigma machine. After the input character is encoded by passing through a series of rotating cipher wheels (known as rotors, see below), the signal would then be sent to the Reflector and back to rotors again. Instead of producing a new letter substitution, the Reflector's purpose was to create a reciprocal mapping of letters, effectively ensuring that the encryption process is symmetric. This means that if a letter "A" was encrypted as "D," the decryption process would reverse this, decrypting "D" back to "A". Enigma can then be used to both encrypt or decrypt a message using the same initial settings. Unfortunately, incorporating a reflector into the system introduces an encryption vulnerability: the encrypted version of a given letter can never be that letter itself.
+The **reflector** known as the **reversing drum** or, from the German, the **umkehrwalze** (**UKW**) is a fixed wiring mechanism within the Enigma machine. After the input character is encoded by passing through a series of rotating cipher wheels (known as rotors, see below), the signal would then be sent to the Reflector and back to rotors again. Instead of producing a new letter substitution, the Reflector's purpose was to create a reciprocal mapping of letters, effectively ensuring that the encryption process is symmetric. This means that if a letter "A" was encrypted as "D," the decryption process would reverse this, decrypting "D" back to "A". Enigma can then be used to both encrypt or decrypt a message using the same initial settings. Unfortunately, incorporating a reflector into the system introduces an encryption vulnerability: the encrypted version of a given letter can never be that letter itself.
 
 ### 1. Complete Reflector
 
@@ -80,6 +80,20 @@ The **reflector** known as the **reversing drum** or, from the German, the **Umk
 <!-- REFLECTOR WIRING -->
 ### Wiring
 
+The wiring of each rotor is referred to the sequence of the **eintrittzwalze** (**ETW**, entry disk) located on the right of the first rotor.
+
+<div align="center">
+
+|  |  | Notch | Turnover |
+| :---: | :---: | :---: | :---: |
+| ETW | **ABCDEFGHIJKLMNOPQRSTUVWXYZ** | - | - |
+| UKW-A	| EJMZALYXVBWFCRQUONTSPIKHGD | - | - |
+| UKW-B	| YRUHQSLDPXNGOKMIEBFZCWVJAT | - | - |
+| UKW-C	| FVPJIAOYEDRZXWGCTKUQSBNMHL | - | - |
+| UKW-D (Dora) | rewirable / custom | - | - |
+
+</div>
+
 <!-- ROTORS -->
 ## Rotor - Walzensatz 
 
@@ -110,7 +124,7 @@ The **reflector** known as the **reversing drum** or, from the German, the **Umk
 
 <div align="center">
 
-<img src="img/clamp_exp.webp" alt="clamp" width="360">
+<img src="img/clamp_exp.webp" alt="clamp" width="500">
 
 | POS | Part Nr | Name | Material designation | Weight (Kg) |
 | :---: | :---: | :---: | :---: | :---: |
@@ -159,6 +173,19 @@ The **reflector** known as the **reversing drum** or, from the German, the **Umk
 
 <!-- ROTORS WIRING -->
 ### Wiring
+
+<div align="center">
+
+|  |  | Notch | Turnover |
+| :---: | :---: | :---: | :---: |
+| ETW | **ABCDEFGHIJKLMNOPQRSTUVWXYZ** | - | - |
+| I	| EKMFLGDQVZNTOWYHXUSPAIBRCJ | Y | Q |
+| II	| AJDKSIRUXBLHWTMCQGZNPYFVOE | M | E |
+| III	| BDFHJLCPRTXVZNYEIWGAKMUSQO | D | V |
+| IV | ESOVPZJAYQUIRHXLNFTGKDCMWB | R | J |
+| V | VZBRGITYUPSDNHLXAWMJQOFECK | H | Z |
+
+</div>
 
 <!-- MD -->
 ## Material Designation

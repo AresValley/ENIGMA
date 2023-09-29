@@ -6,12 +6,12 @@
 </p>
 
 <!-- ABOUT THE PROJECT -->
-## BEARING BLOCK LEFT - 100 001
+## SHAFT HOLDER - 100 005
 
-**ID:** 100001 <br/>
+**ID:** 100005 <br/>
 **Material:** [S235JR](https://github.com/AresValley/ENIGMA#s235jr-) <br/>
-**Weight:** 0.155 Kg <br/>
-**A360:** https://a360.co/2P5f7vf <br/>
+**Weight:** 19.14 g <br/>
+**A360:** https://a360.co/3PCjWI3 <br/>
 
 ### Blueprint
-<img src="BP.jpg" alt="Blueprint">
+<img src="BP.png" alt="Logo">
