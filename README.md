@@ -1,27 +1,28 @@
 <!-- PROJECT LOGO -->
-<p align="center">
+<div align="center">
   <a href="https://github.com/AresValley/ENIGMA">
     <img src="img/logo.svg" alt="Logo" width="300">
   </a>
-  <h3 align="center">ENIGMA I (Dora reflector)</h3>
+  <h3 align="center">ENIGMA I - Dora Reflector</h3>
   <p align="center">
-Device number: 24b 656<br />
-Year of manufacturing: 1943<br />
-Chiffriermaschinen AG Heimsoeht & Rinke in Berlin-Wilmersdorf
+    Serial Number: 24b 656<br />
+    Year of manufacturing: 1943<br />
+    Chiffriermaschinen AG Heimsoeht & Rinke in Berlin-Wilmersdorf
   </p>
-</p>
+</div>
 
 <!-- TABLE OF CONTENTS -->
 - [Rack/Plug Board - Gestell/Steckerbrett](#rackplug-board---gestellsteckerbrett)
 - [Reflector - Umkehrwalze (UKW)](#reflector---umkehrwalze-ukw)
-  - [1. Complete Reflector](#1-complete-reflector)
-  - [Wiring](#wiring)
+  - [Complete Reflector](#complete-reflector)
 - [Rotor - Walzensatz](#rotor---walzensatz)
-  - [1. Rollbody](#1-rollbody)
-  - [2. Clamp](#2-clamp)
-  - [3. Complete Rotor](#3-complete-rotor)
-  - [4. Rotors Stacking](#4-rotors-stacking)
-  - [Wiring](#wiring-1)
+  - [Rollbody](#rollbody)
+  - [Clamp](#clamp)
+  - [Complete Rotor](#complete-rotor)
+  - [Rotors Stacking](#rotors-stacking)
+- [Internal Wiring](#internal-wiring)
+  - [Reflector](#reflector)
+  - [Rotors](#rotors)
 - [Material Designation](#material-designation)
 - [Acknowledgements](#acknowledgements)
 
@@ -46,58 +47,41 @@ This project was created to transfer the blueprints of every single component of
 ## Reflector - Umkehrwalze (UKW)
 The **reflector** known as the **reversing drum** or, from the German, the **umkehrwalze** (**UKW**) is a fixed wiring mechanism within the Enigma machine. After the input character is encoded by passing through a series of rotating cipher wheels (known as rotors, see below), the signal would then be sent to the Reflector and back to rotors again. Instead of producing a new letter substitution, the Reflector's purpose was to create a reciprocal mapping of letters, effectively ensuring that the encryption process is symmetric. This means that if a letter "A" was encrypted as "D," the decryption process would reverse this, decrypting "D" back to "A". Enigma can then be used to both encrypt or decrypt a message using the same initial settings. Unfortunately, incorporating a reflector into the system introduces an encryption vulnerability: the encrypted version of a given letter can never be that letter itself.
 
-### 1. Complete Reflector
+### Complete Reflector
 
 <img src="img/reflector_exp.webp" alt="reflector">
 
 <div align="center">
 
-| POS | Part Nr | Name | Material designation | Weight (Kg) |
-| :---: | :---: | :---: | :---: | :---: |
-| 1 | <a href="https://github.com/AresValley/ENIGMA/tree/master/reflector/300009">300 009</a> | Axle | <a href="#material-designation">S235JR</a> | 0.0004 |
-| 2 | <a href="https://github.com/AresValley/ENIGMA/tree/master/reflector/300002">300 002</a> | Cabinet | <a href="#material-designation">MATERIAL</a> | 0.1364 |
-| 3 | | Countersink M2 x 4 | |
-| 4 | | Countersink M3 x 6 | |
-| 5 | <a href="https://github.com/AresValley/ENIGMA/tree/master/reflector/300003">300 003</a> | Wedge Holder | <a href="#material-designation">S235JR</a> | 0.0529 |
-| 6 | <a href="https://github.com/AresValley/ENIGMA/tree/master/reflector/300004">300 004</a> | Wedge | <a href="#material-designation">S235JR</a> | 0.0096 |
-| 7 | | Countersink M3 x 5 | |
-| 8 | | Screw M1.6 x 4 | |
-| 9 | <a href="https://github.com/AresValley/ENIGMA/tree/master/reflector/300008">300 008</a> | Isolator Plate | <a href="#material-designation">PA6 (Black)</a> | 0.0002 |
-| 10 | <a href="https://github.com/AresValley/ENIGMA/tree/master/reflector/300005">300 005</a> | Blank | <a href="#material-designation">CuZn40</a> | 0.0003 |
-| 11 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400010">400 010</a> | Contact Die | <a href="#material-designation">CuZn40</a> | 0.0001 |
-| 12 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400013">400 013</a> | Thread Bushing | <a href="#material-designation">S235JR</a> | 0.0011 |
-| 13 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400019">400 019</a> | Thread Bushing Small | <a href="#material-designation">S235JR</a> | 0.0004 |
-| 14 | <a href="https://github.com/AresValley/ENIGMA/tree/master/reflector/300001">300 001</a> | Reverse Roll | <a href="#material-designation">PA6 (Black)</a> | 0.0044 |
-| 15 | <a href="https://github.com/AresValley/ENIGMA/tree/master/reflector/300007">300 007</a> | Screw Plate | <a href="#material-designation">S235JR</a> | 0.0001 |
-| 16 | <a href="https://github.com/AresValley/ENIGMA/tree/master/reflector/300006">300 006</a> | Bushing | <a href="#material-designation">CuZn40</a> | 0.0019 |
-| 17 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400017">400 017</a> | Spring | <a href="#material-designation">CuZn40</a> | 0.0000 |
-| 18 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400018">400 018</a> | Spring Pin | <a href="#material-designation">CuZn40</a> | 0.0003 |
-| 19 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400015">400 015</a> | Coping | <a href="#material-designation">PA6 (Black)</a> | 0.0065 |
-| 20 | | Countersink M3x8 | |
-
-</div>
-
-<!-- REFLECTOR WIRING -->
-### Wiring
-
-The wiring of each rotor is referred to the sequence of the **eintrittzwalze** (**ETW**, entry disk) located on the right of the first rotor.
-
-<div align="center">
-
-|  |  | Notch | Turnover |
-| :---: | :---: | :---: | :---: |
-| ETW | **ABCDEFGHIJKLMNOPQRSTUVWXYZ** | - | - |
-| UKW-A	| EJMZALYXVBWFCRQUONTSPIKHGD | - | - |
-| UKW-B	| YRUHQSLDPXNGOKMIEBFZCWVJAT | - | - |
-| UKW-C	| FVPJIAOYEDRZXWGCTKUQSBNMHL | - | - |
-| UKW-D (Dora) | rewirable / custom | - | - |
+| POS | Nr | Ref | Name | Material designation | Weight (Kg) |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| 1 | 1 | <a href="https://github.com/AresValley/ENIGMA/tree/master/reflector/300009">300 009</a> | Axle | <a href="#material-designation">S235JR</a> | 0.0004 |
+| 2 | 1 | <a href="https://github.com/AresValley/ENIGMA/tree/master/reflector/300002">300 002</a> | Cabinet | <a href="#material-designation">MATERIAL</a> | 0.1364 |
+| 3 | 4 | | Countersink M2 x 4 | |
+| 4 | 3 | | Countersink M3 x 6 | |
+| 5 | 1 | <a href="https://github.com/AresValley/ENIGMA/tree/master/reflector/300003">300 003</a> | Wedge Holder | <a href="#material-designation">S235JR</a> | 0.0529 |
+| 6 | 2 | <a href="https://github.com/AresValley/ENIGMA/tree/master/reflector/300004">300 004</a> | Wedge | <a href="#material-designation">S235JR</a> | 0.0096 |
+| 7 | 4 | | Countersink M3 x 5 | |
+| 8 | 3 | | Screw M1.6 x 4 | |
+| 9 | 1 | <a href="https://github.com/AresValley/ENIGMA/tree/master/reflector/300008">300 008</a> | Isolator Plate | <a href="#material-designation">PA6 (Black)</a> | 0.0002 |
+| 10 | 24 | <a href="https://github.com/AresValley/ENIGMA/tree/master/reflector/300005">300 005</a> | Blank | <a href="#material-designation">CuZn40</a> | 0.0003 |
+| 11 | 26 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400010">400 010</a> | Contact Die | <a href="#material-designation">CuZn40</a> | 0.0001 |
+| 12 | 6 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400013">400 013</a> | Thread Bushing | <a href="#material-designation">S235JR</a> | 0.0011 |
+| 13 | 3 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400019">400 019</a> | Thread Bushing Small | <a href="#material-designation">S235JR</a> | 0.0004 |
+| 14 | 1 | <a href="https://github.com/AresValley/ENIGMA/tree/master/reflector/300001">300 001</a> | Reverse Roll | <a href="#material-designation">PA6 (Black)</a> | 0.0044 |
+| 15 | 2 | <a href="https://github.com/AresValley/ENIGMA/tree/master/reflector/300007">300 007</a> | Screw Plate | <a href="#material-designation">S235JR</a> | 0.0001 |
+| 16 | 24 | <a href="https://github.com/AresValley/ENIGMA/tree/master/reflector/300006">300 006</a> | Bushing | <a href="#material-designation">CuZn40</a> | 0.0019 |
+| 17 | 26 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400017">400 017</a> | Spring | <a href="#material-designation">CuZn40</a> | 0.0000 |
+| 18 | 26 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400018">400 018</a> | Spring Pin | <a href="#material-designation">CuZn40</a> | 0.0003 |
+| 19 | 1 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400015">400 015</a> | Coping | <a href="#material-designation">PA6 (Black)</a> | 0.0065 |
+| 20 | 3 | | Countersink M3x8 | |
 
 </div>
 
 <!-- ROTORS -->
 ## Rotor - Walzensatz 
 
-### 1. Rollbody
+### Rollbody
 
 <img src="img/rollbody_exp.webp" alt="rollbody">
 
@@ -120,7 +104,7 @@ The wiring of each rotor is referred to the sequence of the **eintrittzwalze** (
 
 </div>
 
-### 2. Clamp
+### Clamp
 
 <div align="center">
 
@@ -134,7 +118,7 @@ The wiring of each rotor is referred to the sequence of the **eintrittzwalze** (
 
 </div>
 
-### 3. Complete Rotor
+### Complete Rotor
 
 <img src="img/rotor_exp.webp" alt="rotor">
 
@@ -156,7 +140,7 @@ The wiring of each rotor is referred to the sequence of the **eintrittzwalze** (
 
 </div>
 
-### 4. Rotors Stacking
+### Rotors Stacking
 
 <img src="img/rotors_stack_exp.webp" alt="stacked rotors">
 
@@ -171,8 +155,29 @@ The wiring of each rotor is referred to the sequence of the **eintrittzwalze** (
 
 </div>
 
+
+<!-- Internal Wiring -->
+## Internal Wiring
+
+<!-- REFLECTOR WIRING -->
+### Reflector
+
+The wiring of each rotor is referred to the sequence of the **eintrittzwalze** (**ETW**, entry disk) located on the right of the first rotor.
+
+<div align="center">
+
+|  |  | Notch | Turnover |
+| :---: | :---: | :---: | :---: |
+| ETW | **ABCDEFGHIJKLMNOPQRSTUVWXYZ** | - | - |
+| UKW-A	| EJMZALYXVBWFCRQUONTSPIKHGD | - | - |
+| UKW-B	| YRUHQSLDPXNGOKMIEBFZCWVJAT | - | - |
+| UKW-C	| FVPJIAOYEDRZXWGCTKUQSBNMHL | - | - |
+| UKW-D (Dora) | rewirable / custom | - | - |
+
+</div>
+
 <!-- ROTORS WIRING -->
-### Wiring
+### Rotors
 
 <div align="center">
 

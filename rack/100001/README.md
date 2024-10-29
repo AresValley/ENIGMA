@@ -14,4 +14,4 @@
 **A360:** https://a360.co/2P5f7vf <br/>
 
 ### Blueprint
-<img src="BP.jpg" alt="Blueprint">
+<img src="BP.png" alt="Blueprint">
