@@ -93,7 +93,7 @@ The **reflector** known as the **reversing drum** or, from the German, the **umk
 | 2 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400016">400 016</a> | Contact Pin | <a href="#material-designation">CuZn40</a> | 0.0003 |
 | 3 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400011">400 011</a> | Rollplate | <a href="#material-designation">PA6 (Black)</a> | 0.0090 |
 | 4 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400010">400 010</a> | Contact Die | <a href="#material-designation">CuZn40</a> | 0.0001 |
-| 5 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400009">400 009</a> | ■ | <a href="#material-designation">MATERIAL</a> | 0.0xxx |
+| 5 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400009">400 009</a> | Center Toothed Wheel | <a href="#material-designation">PA6 (Black)</a> | 0.0345 |
 | 6 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400019">400 019</a> | Thread Bushing Small | <a href="#material-designation">S235JR</a> | 0.0004 |
 | 7 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400017">400 017</a> | Spring | <a href="#material-designation">CuZn40</a> | 0.0000 |
 | 8 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400018">400 018</a> | Spring Pin | <a href="#material-designation">CuZn40</a> | 0.0003 |
