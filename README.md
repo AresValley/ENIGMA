@@ -129,7 +129,7 @@ The **reflector** known as the **reversing drum** or, from the German, the **umk
 | :---: | :---: | :---: | :---: | :---: |
 | 1 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400006">400 006</a> | Clamp | <a href="#material-designation">38Si7</a> | 0.0013 |
 | 2 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400007">400 007</a> | Pin | <a href="#material-designation">S235JR</a> | 0.0004 |
-| 3 | <a href="https://github.com/AresValley/ENIGMA/tree/master/reflector/400008">400 008</a> | ■ | <a href="#material-designation">S235JR</a> | 0. |
+| 3 | <a href="https://github.com/AresValley/ENIGMA/tree/master/reflector/400008">400 008</a> | Cap | <a href="#material-designation">S235JR</a> | 0.004 |
 
 </div>
 
