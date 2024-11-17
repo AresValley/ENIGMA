@@ -89,7 +89,7 @@ The **reflector** known as the **reversing drum** or, from the German, the **umk
 
 | POS | Part Nr | Name | Material designation | Weight (Kg) |
 | :---: | :---: | :---: | :---: | :---: |
-| 1 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400012">400 012</a> | ■ | <a href="#material-designation">MATERIAL</a> | 0.0xxx |
+| 1 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400012">400 012</a> | Steel Bushing | <a href="#material-designation">S235JR</a> | 0.0084 |
 | 2 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400016">400 016</a> | Contact Pin | <a href="#material-designation">CuZn40</a> | 0.0003 |
 | 3 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400011">400 011</a> | Rollplate | <a href="#material-designation">PA6 (Black)</a> | 0.0090 |
 | 4 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400010">400 010</a> | Contact Die | <a href="#material-designation">CuZn40</a> | 0.0001 |
