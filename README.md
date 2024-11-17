@@ -12,6 +12,7 @@
 </div>
 
 <!-- TABLE OF CONTENTS -->
+- [Project Status](#project-status)
 - [Rack/Plug Board - Gestell/Steckerbrett](#rackplug-board---gestellsteckerbrett)
 - [Reflector - Umkehrwalze (UKW)](#reflector---umkehrwalze-ukw)
   - [Complete Reflector](#complete-reflector)
@@ -27,8 +28,22 @@
 - [Acknowledgements](#acknowledgements)
 
 <!-- ABOUT THE PROJECT -->
-## About The Project <!-- omit from toc -->
+## Why <!-- omit from toc -->
 This project was created to transfer the blueprints of every single component of an ENIGMA I cipher device in a digital format (.stl, in the future other formats will be available) useful for 3D printing and eventual production through Computer-aided manufacturing (CAM).
+
+The idea originated from my desire to improve my skills in 3D modeling choosing a device that has always fascinated me. At the same time, the project was intended to usefull as well so bringing to the community resources that weren't yet available online.
+
+<!-- PROJ STATUS -->
+## Project Status
+<div align="center">
+
+| Module | Total Parts | Completed Parts | Percentage |
+| :---: | :---: | :---: | :---: |
+| Rack/Plug Board | 73 | 2 | ![](https://geps.dev/progress/3)  |
+| Reflector | 15 | 15 | ![](https://geps.dev/progress/100)  |
+| Rotor | 19 | 19 | ![](https://geps.dev/progress/100)  |
+
+</div>
 
 <!-- RACK -->
 ## Rack/Plug Board - Gestell/Steckerbrett
@@ -215,3 +230,6 @@ Polyacetal, also commonly known as acetal or polyoxymethylene, is a formaldehyde
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
+Thanks to Ms. Luzia Jans for providing all the drawings/blue prints in the context of the scientific project "DIE ENIGMA - Nachbau der legendaeren Chiffriermaschine". The original ENIGMA machine (serial 24b 656) on which all the drawings are based, is present in the Wehrtechnische Studiensammlung museum in Koblenz (Germany).
+
+<img src="img/enigma_original.webp" alt="enigma_machine">
