@@ -31,7 +31,7 @@
 ## Why <!-- omit from toc -->
 This project was created to transfer the blueprints of every single component of an ENIGMA I cipher device in a digital format (.stl, in the future other formats will be available) useful for 3D printing and eventual production through Computer-aided manufacturing (CAM).
 
-The idea originated from my desire to improve my skills in 3D modeling choosing a device that has always fascinated me. At the same time, the project was intended to usefull as well so bringing to the community resources that weren't yet available online.
+The idea originated from my desire to improve my skills in 3D modeling choosing a device that has always fascinated me. At the same time, the project was intended to be useful by providing the community with resources that were not yet available online.
 
 <!-- PROJ STATUS -->
 ## Project Status
