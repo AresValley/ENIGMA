@@ -60,11 +60,11 @@ The idea originated from my desire to improve my skills in 3D modeling choosing 
 
 <div align="center">
 
-| POS | Nr | Ref | Name | Material designation | Weight (Kg) |
+| POS | Nr | Ref | Name | Material designation | Weight (g) |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| 1 | 1 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rack/100006">100 006</a> | Lever | <a href="#material-designation">X12Cr13</a> | 0.0561 |
+| 1 | 1 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rack/100006">100 006</a> | Lever | <a href="#material-designation">X12Cr13</a> | 56.06 |
 | 2 | 1 | | Screw M3 x 6 | | |
-| 3 | 1 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rack/100043">100 043</a> | Knob Lever | <a href="#material-designation">X12Cr13</a> | 0.0045 |
+| 3 | 1 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rack/100043">100 043</a> | Knob Lever | <a href="#material-designation">X12Cr13</a> | 4.48 |
 
 </div>
 
@@ -79,16 +79,16 @@ The idea originated from my desire to improve my skills in 3D modeling choosing 
 
 <div align="center">
 
-| POS | Nr | Ref | Name | Material designation | Weight (Kg) |
+| POS | Nr | Ref | Name | Material designation | Weight (g) |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| 1 | 1 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rack/100027">100 027</a> | Button Head Top | <a href="#material-designation">X12Cr13</a> | 0.0011 |
-| 2 | 1 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rack/100029">100 029</a> | x | x | x |
-| 3 | 1 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rack/100028">100 028</a> | x | x | x |
+| 1 | 1 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rack/100027">100 027</a> | Button Head Top | <a href="#material-designation">X12Cr13</a> | 1.06 |
+| 2 | 1 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rack/100029">100 029</a> | Button Head Glass | Glass | 0.28 |
+| 3 | 1 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rack/100028">100 028</a> | Button Head Bottom | <a href="#material-designation">X12Cr13</a> | 2.90 |
 | 4 | 2 | | Spike | | |
-| 5 | 1 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rack/100025">100 025</a> | x | x | x |
+| 5 | 1 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rack/100025">100 025</a> | Button Short | <a href="#material-designation">X12Cr13</a> | 11.67 |
 | 6 | 1 | | Nut M3 x 2.4 | | |
-| 7 | 1 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rack/100052">100 052</a> | x | x | x |
-| 8 | 1 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rack/100026">100 026</a> | x | x | x |
+| 7 | 1 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rack/100052">100 052</a> | Spring | <a href="#material-designation">38Si7</a> | 0.84 |
+| 8 | 1 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rack/100026">100 026</a> | Plastic Plug | <a href="#material-designation">POM-C</a> | 0.17 |
 | 9 | 1 | | Screw M3 x 12 | | |
 
 </div>
