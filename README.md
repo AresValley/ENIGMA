@@ -13,6 +13,7 @@
 
 <!-- TABLE OF CONTENTS -->
 - [Project Status](#project-status)
+  - [TODO:](#todo)
 - [Rack/Plug Board - Gestell/Steckerbrett](#rackplug-board---gestellsteckerbrett)
   - [Lever Assembly](#lever-assembly)
   - [Button Short Assy](#button-short-assy)
@@ -42,11 +43,29 @@ The idea originated from my desire to improve my skills in 3D modeling choosing 
 
 | Module | Total Parts | Completed Parts | Percentage |
 | :---: | :---: | :---: | :---: |
-| Rack/Plug Board | 73 | 9 | ![](https://geps.dev/progress/10)  |
+| Rack/Plug Board | 73 | 18 | ![](https://geps.dev/progress/10)  |
 | Reflector | 15 | 15 | ![](https://geps.dev/progress/100)  |
 | Rotor | 19 | 19 | ![](https://geps.dev/progress/100)  |
 
 </div>
+
+### TODO:
+- Button Long Assy
+- Lamp Holder
+- Access Roll
+- Compensator
+- Roll Retainer Assy
+- Axle Bottom
+- Patch Panel
+- Bent Low, Bent High
+- Centering Device
+- Axles
+- Core
+- Baseplate
+- Contactor Plate
+- Rack I
+- Rack II
+- Complete Rack (Entire ENIGMA Machine)
 
 <!-- RACK -->
 ## Rack/Plug Board - Gestell/Steckerbrett
