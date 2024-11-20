@@ -15,6 +15,7 @@
 - [Project Status](#project-status)
 - [Rack/Plug Board - Gestell/Steckerbrett](#rackplug-board---gestellsteckerbrett)
   - [Lever Assembly](#lever-assembly)
+  - [Button Short Assy (WIP)](#button-short-assy-wip)
 - [Reflector - Umkehrwalze (UKW)](#reflector---umkehrwalze-ukw)
   - [Complete Reflector](#complete-reflector)
 - [Rotor - Walzensatz](#rotor---walzensatz)
@@ -48,27 +49,12 @@ The idea originated from my desire to improve my skills in 3D modeling choosing 
 
 <!-- RACK -->
 ## Rack/Plug Board - Gestell/Steckerbrett
-
-<div align="center">
-
-| POS | Nr | Ref | Name | Material designation | Weight (Kg) |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| x | x | <a href="https://github.com/AresValley/ENIGMA/tree/master/rack/100001">100 001</a> | Bearing Block Left | <a href="#material-designation">S235JR</a> | 0.155 |
-| x | x | <a href="https://github.com/AresValley/ENIGMA/tree/master/rack/100002">100 002</a> | x | <a href="#material-designation">S235JR</a> | x |
-| x | x | <a href="https://github.com/AresValley/ENIGMA/tree/master/rack/100003">100 003</a> | Compensator | <a href="#material-designation">S235JR</a> | x |
-| x | x | <a href="https://github.com/AresValley/ENIGMA/tree/master/rack/100004">100 004</a> | Trident | <a href="#material-designation">S235JR</a> | x |
-| x | x | <a href="https://github.com/AresValley/ENIGMA/tree/master/rack/100005">100 005</a> | Shaft Holder | <a href="#material-designation">S235JR</a> | 0.019 |
-| x | x | <a href="https://github.com/AresValley/ENIGMA/tree/master/rack/100014">100 014</a> | Access Ring | <a href="#material-designation">S235JR</a> | x |
-| x | x | <a href="https://github.com/AresValley/ENIGMA/tree/master/rack/100027">100 027</a> | Button Head Top | <a href="#material-designation">S235JR</a> | x |
-
-</div>
-
 ### Lever Assembly
 
 <img src="img/100101.webp" alt="lever_expl">
 
 <details>
-<summary>Full Blueprint</summary>
+<summary>Full Blueprint - 100 101</summary>
 <img src="rack/100101.png" alt="lever_expl">
 </details>
 
@@ -79,6 +65,31 @@ The idea originated from my desire to improve my skills in 3D modeling choosing 
 | 1 | 1 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rack/100006">100 006</a> | Lever | <a href="#material-designation">X12Cr13</a> | 0.0561 |
 | 2 | 1 | | Screw M3 x 6 | | |
 | 3 | 1 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rack/100043">100 043</a> | Knob Lever | <a href="#material-designation">X12Cr13</a> | 0.0045 |
+
+</div>
+
+### Button Short Assy (WIP)
+
+<img src="img/100102.webp" alt="button_expl">
+
+<details>
+<summary>Full Blueprint - 100 102</summary>
+<img src="rack/100102.png" alt="button_expl">
+</details>
+
+<div align="center">
+
+| POS | Nr | Ref | Name | Material designation | Weight (Kg) |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| 1 | 1 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rack/100027">100 027</a> | Button Head Top | <a href="#material-designation">X12Cr13</a> | 0.0011 |
+| 2 | 1 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rack/100029">100 029</a> | x | x | x |
+| 3 | 1 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rack/100028">100 028</a> | x | x | x |
+| 4 | 2 | | Spike | | |
+| 5 | 1 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rack/100025">100 025</a> | x | x | x |
+| 6 | 1 | | Nut M3 x 2.4 | | |
+| 7 | 1 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rack/100052">100 052</a> | x | x | x |
+| 8 | 1 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rack/100026">100 026</a> | x | x | x |
+| 9 | 1 | | Screw M3 x 12 | | |
 
 </div>
 
