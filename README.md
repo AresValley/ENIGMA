@@ -160,6 +160,7 @@ The idea originated from my desire to improve my skills in 3D modeling choosing 
 | 7 | 1 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rack/100054">100 054</a> | Spring | <a href="#material-designation">38Si7</a> | x |
 | 8 | 1 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rack/100026">100 026</a> | Plastic Plug | <a href="#material-designation">POM-C</a> | 0.17 |
 | 9 | 1 | | Screw M3 x 12 | | |
+| 10 | 1 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rack/100054">100 054</a> | Sleeve | <a href="#material-designation"> </a> | x |
 
 </div>
 
@@ -242,6 +243,11 @@ The **reflector** known as the **reversing drum** or, from the German, the **umk
 
 <img src="img/rotor_exp.webp" alt="rotor">
 
+<details>
+<summary>Full Blueprint - 400 201</summary>
+<img src="rotors/400201.png" alt="roll_expl">
+</details>
+
 <div align="center">
 
 | POS | Part Nr | Name | Material designation | Weight (Kg) |
@@ -250,8 +256,8 @@ The **reflector** known as the **reversing drum** or, from the German, the **umk
 | 2 | | Countersink M2 x 5 | |
 | 3 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400001">400 001</a> | Kerfring | <a href="#material-designation">S235JR</a> | 0.0169 |
 | 4 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400002">400 002</a> | Digitring | <a href="#material-designation">X12Cr13</a> | 0.1130 |
-| 5 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400005">400 005</a> | Bracket | <a href="#material-designation">S235JR</a> | 0.0020 |
-| 6 | | [Clamp](#2-clamp) | |
+| 5 | | [Clamp](#2-clamp) | |
+| 6 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rotors/400005">400 005</a> | Bracket | <a href="#material-designation">S235JR</a> | 0.0020 |
 | 7 | | Countersink M1.6 x 2.5 | |
 | 8 | | Washer M1.2 | |
 | 9 | | Screw M1.2 x 2 | |
