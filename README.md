@@ -13,7 +13,7 @@
 
 <!-- TABLE OF CONTENTS -->
 - [Project Status](#project-status)
-  - [TODO:](#todo)
+  - [TODO](#todo)
 - [Rack/Plug Board - Gestell/Steckerbrett](#rackplug-board---gestellsteckerbrett)
   - [Lever Assembly](#lever-assembly)
   - [Button Short Assy](#button-short-assy)
@@ -50,7 +50,7 @@ The idea originated from my desire to improve my skills in 3D modeling choosing 
 
 </div>
 
-### TODO:
+### TODO
 - Lamp Holder
 - Access Roll
 - Compensator

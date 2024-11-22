@@ -11,7 +11,7 @@
 **ID:** 100043 <br/>
 **Material:** [X12Cr13](https://github.com/AresValley/ENIGMA#x12cr13-) <br/>
 **Weight:** 4.48 g <br/>
-**A360:** https://a360.co/2P5f7vf <br/>
+**A360:** https://a360.co/3YYFBPn <br/>
 
 ### Blueprint
 <img src="BP.png" alt="Blueprint">
