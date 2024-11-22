@@ -44,7 +44,7 @@ The idea originated from my desire to improve my skills in 3D modeling choosing 
 
 | Module | Total Parts | Completed Parts | Percentage |
 | :---: | :---: | :---: | :---: |
-| Rack/Plug Board | 73 | 13 | ![](https://geps.dev/progress/18)  |
+| Rack/Plug Board | 73 | 16 | ![](https://geps.dev/progress/22)  |
 | Reflector | 15 | 15 | ![](https://geps.dev/progress/100)  |
 | Rotor | 19 | 19 | ![](https://geps.dev/progress/100)  |
 
