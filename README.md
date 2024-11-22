@@ -20,7 +20,7 @@
   - [Button Medium Assy](#button-medium-assy)
   - [Button Long Assy (WIP)](#button-long-assy-wip)
 - [Reflector - Umkehrwalze (UKW)](#reflector---umkehrwalze-ukw)
-  - [Complete Reflector](#complete-reflector)
+  - [Reverse Roll](#reverse-roll)
 - [Rotor - Walzensatz](#rotor---walzensatz)
   - [Rollbody](#rollbody)
   - [Clamp](#clamp)
@@ -72,7 +72,7 @@ The idea originated from my desire to improve my skills in 3D modeling choosing 
 ### Lever Assembly
 
 <details>
-<summary>Full Blueprint - 100 101</summary>
+<summary>Show Blueprint - 100 101</summary>
 <img src="rack/100101.png" alt="lever_expl">
 </details>
 
@@ -95,7 +95,7 @@ The idea originated from my desire to improve my skills in 3D modeling choosing 
 <img src="img/100102.webp" alt="button_expl">
 
 <details>
-<summary>Full Blueprint - 100 102</summary>
+<summary>Show Blueprint - 100 102</summary>
 <img src="rack/100102.png" alt="button_expl">
 </details>
 
@@ -117,12 +117,12 @@ The idea originated from my desire to improve my skills in 3D modeling choosing 
 
 ### Button Medium Assy
 
-<img src="img/100103.webp" alt="button_expl">
-
 <details>
-<summary>Full Blueprint - 100 103</summary>
+<summary>Show Blueprint - 100 103</summary>
 <img src="rack/100103.png" alt="button_expl">
 </details>
+
+<img src="img/100103.webp" alt="button_expl">
 
 <div align="center">
 
@@ -142,12 +142,12 @@ The idea originated from my desire to improve my skills in 3D modeling choosing 
 
 ### Button Long Assy (WIP)
 
-<img src="img/100104.webp" alt="button_expl">
-
 <details>
-<summary>Full Blueprint - 100 104</summary>
+<summary>Show Blueprint - 100 104</summary>
 <img src="rack/100104.png" alt="button_expl">
 </details>
+
+<img src="img/100104.webp" alt="button_expl">
 
 <div align="center">
 
@@ -170,7 +170,12 @@ The idea originated from my desire to improve my skills in 3D modeling choosing 
 ## Reflector - Umkehrwalze (UKW)
 The **reflector** known as the **reversing drum** or, from the German, the **umkehrwalze** (**UKW**) is a fixed wiring mechanism within the Enigma machine. After the input character is encoded by passing through a series of rotating cipher wheels (known as rotors, see below), the signal would then be sent to the Reflector and back to rotors again. Instead of producing a new letter substitution, the Reflector's purpose was to create a reciprocal mapping of letters, effectively ensuring that the encryption process is symmetric. This means that if a letter "A" was encrypted as "D," the decryption process would reverse this, decrypting "D" back to "A". Enigma can then be used to both encrypt or decrypt a message using the same initial settings. Unfortunately, incorporating a reflector into the system introduces an encryption vulnerability: the encrypted version of a given letter can never be that letter itself.
 
-### Complete Reflector
+### Reverse Roll
+
+<details>
+<summary>Show Blueprint - 300 100</summary>
+<img src="reflector/300100.png" alt="reflector">
+</details>
 
 <img src="img/reflector_exp.webp" alt="reflector">
 
@@ -206,6 +211,11 @@ The **reflector** known as the **reversing drum** or, from the German, the **umk
 
 ### Rollbody
 
+<details>
+<summary>Show Blueprint - 400 101</summary>
+<img src="rotors/400101.png" alt="rollbody">
+</details>
+
 <img src="img/rollbody_exp.webp" alt="rollbody">
 
 <div align="center">
@@ -229,6 +239,11 @@ The **reflector** known as the **reversing drum** or, from the German, the **umk
 
 ### Clamp
 
+<details>
+<summary>Show Blueprint - 400 102</summary>
+<img src="rotors/400102.png" alt="clamp">
+</details>
+
 <div align="center">
 
 <img src="img/clamp_exp.webp" alt="clamp" width="500">
@@ -243,12 +258,12 @@ The **reflector** known as the **reversing drum** or, from the German, the **umk
 
 ### Complete Rotor
 
-<img src="img/rotor_exp.webp" alt="rotor">
-
 <details>
-<summary>Full Blueprint - 400 201</summary>
+<summary>Show Blueprint - 400 201</summary>
 <img src="rotors/400201.png" alt="roll_expl">
 </details>
+
+<img src="img/rotor_exp.webp" alt="rotor">
 
 <div align="center">
 
@@ -269,6 +284,11 @@ The **reflector** known as the **reversing drum** or, from the German, the **umk
 </div>
 
 ### Rotors Stacking
+
+<details>
+<summary>Show Blueprint - 400 301</summary>
+<img src="rotors/400301.png" alt="rolls">
+</details>
 
 <img src="img/rotors_stack_exp.webp" alt="stacked rotors">
 
