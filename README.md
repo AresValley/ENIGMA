@@ -160,7 +160,7 @@ The idea originated from my desire to improve my skills in 3D modeling choosing 
 | 7 | 1 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rack/100054">100 054</a> | Spring | <a href="#material-designation">38Si7</a> | x |
 | 8 | 1 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rack/100026">100 026</a> | Plastic Plug | <a href="#material-designation">POM-C</a> | 0.17 |
 | 9 | 1 | | Screw M3 x 12 | | |
-| 10 | 1 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rack/100054">100 054</a> | Sleeve | <a href="#material-designation"> </a> | x |
+| 10 | 1 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rack/100054">100 054</a> | Sleeve | <a href="#material-designation"> S235JR </a> | 0.73 |
 
 </div>
 
@@ -177,7 +177,7 @@ The **reflector** known as the **reversing drum** or, from the German, the **umk
 | POS | Nr | Ref | Name | Material designation | Weight (Kg) |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 | 1 | <a href="https://github.com/AresValley/ENIGMA/tree/master/reflector/300009">300 009</a> | Axle | <a href="#material-designation">S235JR</a> | 0.0004 |
-| 2 | 1 | <a href="https://github.com/AresValley/ENIGMA/tree/master/reflector/300002">300 002</a> | Cabinet | <a href="#material-designation">MATERIAL</a> | 0.1364 |
+| 2 | 1 | <a href="https://github.com/AresValley/ENIGMA/tree/master/reflector/300002">300 002</a> | Cabinet | <a href="#material-designation">S235JR</a> | 0.1364 |
 | 3 | 4 | | Countersink M2 x 4 | |
 | 4 | 3 | | Countersink M3 x 6 | |
 | 5 | 1 | <a href="https://github.com/AresValley/ENIGMA/tree/master/reflector/300003">300 003</a> | Wedge Holder | <a href="#material-designation">S235JR</a> | 0.0529 |
