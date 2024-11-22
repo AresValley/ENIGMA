@@ -71,12 +71,14 @@ The idea originated from my desire to improve my skills in 3D modeling choosing 
 ## Rack/Plug Board - Gestell/Steckerbrett
 ### Lever Assembly
 
-<img src="img/100101.webp" alt="lever_expl">
-
 <details>
 <summary>Full Blueprint - 100 101</summary>
 <img src="rack/100101.png" alt="lever_expl">
 </details>
+
+<img src="img/100101.webp" alt="lever_expl">
+
+
 
 <div align="center">
 
