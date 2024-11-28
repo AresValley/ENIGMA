@@ -18,7 +18,7 @@
   - [Lever Assembly](#lever-assembly)
   - [Button Short Assy](#button-short-assy)
   - [Button Medium Assy](#button-medium-assy)
-  - [Button Long Assy (WIP)](#button-long-assy-wip)
+  - [Button Long Assy](#button-long-assy)
 - [Reflector - Umkehrwalze (UKW)](#reflector---umkehrwalze-ukw)
   - [Reverse Roll](#reverse-roll)
 - [Rotor - Walzensatz](#rotor---walzensatz)
@@ -44,7 +44,7 @@ The idea originated from my desire to improve my skills in 3D modeling choosing 
 
 | Module | Total Parts | Completed Parts | Percentage |
 | :---: | :---: | :---: | :---: |
-| Rack/Plug Board | 73 | 16 | ![](https://geps.dev/progress/22)  |
+| Rack/Plug Board | 73 | 17 | ![](https://geps.dev/progress/23)  |
 | Reflector | 15 | 15 | ![](https://geps.dev/progress/100)  |
 | Rotor | 19 | 19 | ![](https://geps.dev/progress/100)  |
 
@@ -140,7 +140,7 @@ The idea originated from my desire to improve my skills in 3D modeling choosing 
 
 </div>
 
-### Button Long Assy (WIP)
+### Button Long Assy
 
 <details>
 <summary>Show Blueprint - 100 104</summary>
@@ -157,11 +157,11 @@ The idea originated from my desire to improve my skills in 3D modeling choosing 
 | 2 | 1 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rack/100029">100 029</a> | Button Head Glass | Glass | 0.28 |
 | 3 | 1 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rack/100028">100 028</a> | Button Head Bottom | <a href="#material-designation">X12Cr13</a> | 2.90 |
 | 4 | 2 |  | Spike | | |
-| 5 | 1 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rack/100031">100 031</a> | Button Long | <a href="#material-designation">X12Cr13</a> | x |
+| 5 | 1 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rack/100031">100 031</a> | Button Long | <a href="#material-designation">X12Cr13</a> | 15.19 |
 | 6 | 1 | | Nut M3 x 2.4 | | |
-| 7 | 1 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rack/100054">100 054</a> | Spring | <a href="#material-designation">38Si7</a> | x |
+| 7 | 1 | | Screw M3 x 12 | | |
 | 8 | 1 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rack/100026">100 026</a> | Plastic Plug | <a href="#material-designation">POM-C</a> | 0.17 |
-| 9 | 1 | | Screw M3 x 12 | | |
+| 9 | 1 | | Screw M3 x 16 | | |
 | 10 | 1 | <a href="https://github.com/AresValley/ENIGMA/tree/master/rack/100054">100 054</a> | Sleeve | <a href="#material-designation"> S235JR </a> | 0.73 |
 
 </div>

@@ -6,12 +6,12 @@
 </p>
 
 <!-- ABOUT THE PROJECT -->
-## BUTTON MEDIUM - 100 030
+## BUTTON LONG - 100 031
 
-**ID:** 100030 <br/>
+**ID:** 100031 <br/>
 **Material:** [X12Cr13](https://github.com/AresValley/ENIGMA#x12cr13-) <br/>
-**Weight:** 13.57 g <br/>
-**A360:** https://a360.co/4eIls5W <br/>
+**Weight:** 15.19 g <br/>
+**A360:** https://a360.co/3Owj6MW <br/>
 
 ### Blueprint
 <img src="BP.png" alt="Blueprint">
